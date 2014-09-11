@@ -16,4 +16,4 @@ libraryDependencies ++= Seq(
 
 herokuJdkVersion in Compile := "1.7"
 
-herokuAppName in Compile := "sheltered-citadel-3631"
+herokuAppName in Compile := "shrouded-shelf-1450"
