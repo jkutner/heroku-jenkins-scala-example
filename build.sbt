@@ -16,4 +16,4 @@ libraryDependencies ++= Seq(
 
 herokuJdkVersion in Compile := "1.7"
 
-herokuAppName in Compile := "shrouded-shelf-1450"
+herokuAppName in Compile := "possessed-cemetery-7933"
